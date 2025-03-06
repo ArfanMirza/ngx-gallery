@@ -1,12 +1,15 @@
 {
-    "name": "ngx-gallery-9",
-    "version": "1.0.6",
+    "name": "@zklogic/ngx-gallery",
+    "version": "14.0.0",
     "license": "MIT",
     "repository": {
-      "url": "https://github.com/SaeedSpate/ngx-gallery-9"
+      "url": "https://github.com/ArfanMirza/ngx-gallery"
     },
     "bugs": {
       "email": "yazdani.zs@gmail.com",
-      "url": "https://github.com/SaeedSpate/ngx-gallery-9/issues"
+      "url": "https://github.com/ArfanMirza/ngx-gallery/issues"
+    },
+    "publishConfig": {
+      "access": "public"
     }
 }
